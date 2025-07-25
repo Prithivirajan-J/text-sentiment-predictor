@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+librosa
+opencv-python
+mediapipe
+scikit-learn
+streamlit
+numpy
+pandas
